@@ -17,6 +17,7 @@
 |2439. 별 찍기 － 2|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2439.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%852/README.md)|
 |2480. 주사위 세개|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2480.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EC%84%B8%EA%B0%9C/%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EC%84%B8%EA%B0%9C.cc)|
 |2525. 오븐 시계|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2525.%E2%80%85%EC%98%A4%EB%B8%90%E2%80%85%EC%8B%9C%EA%B3%84/README.md)|
+|2557. Hello World|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/README.md)|
 |8393. 합|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8393.%E2%80%85%ED%95%A9/%ED%95%A9.cc)|
 ### 🚀 Silver
 | 문제번호 | 링크 |
