@@ -1,14 +1,10 @@
+#include <cmath>
 #include <iostream>
-
 using namespace std;
 
-int main()
-{
-	long N, M;
+int main() {
+  long long N, M;
+  cin >> N >> M;
 
-	cin >> N >> M;
-	cout << abs(N - M);
-	
-
-	return 0;
+  cout << abs(N - M);
 }
