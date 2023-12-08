@@ -1,9 +1,9 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 
 int main() {
-    cout << ".  .   ." << endl;
-    cout << "|  | _ | _. _ ._ _  _" << endl;
-    cout << "|/\\|(/.|(_.(_)[ | )(/." << endl;
-    return 0;
+	cout << ".  .   .\n";
+	cout << "|  | _ | _. _ ._ _  _\n";
+	cout << "|/\\|(/.|(_.(_)[ | )(/.\n";
+	return 0;
 }
