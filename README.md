@@ -98,5 +98,3 @@
    
 
 <img src="http:/mazandi.herokuapp.com/api?handle=maldron&theme=warm">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" />
