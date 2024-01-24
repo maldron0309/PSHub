@@ -1,7 +1,7 @@
 # 
 # 백준 & 프로그래머스 문제 풀이 목록
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=maldron)](https://solved.ac/maldron) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=maldron&theme=warm)
+프로그래머스의 경우, 푼 문제 목록에 대한 마이그레이션이 필요합니다.
 
 ## 📚 백준
 ### 🚀 Bronze
