@@ -96,6 +96,7 @@
 |7287. 등록|[링크](./%EB%B0%B1%EC%A4%80/Bronze/7287.%E2%80%85%EB%93%B1%EB%A1%9D/%EB%93%B1%EB%A1%9D.cc)|
 |8393. 합|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8393.%E2%80%85%ED%95%A9/README.md)|
 |9086. 문자열|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9086.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md)|
+|9316. Hello Judge|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9316.%E2%80%85Hello%E2%80%85Judge/README.md)|
 |9498. 시험 성적|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9498.%E2%80%85%EC%8B%9C%ED%97%98%E2%80%85%EC%84%B1%EC%A0%81/README.md)|
 |9653. 스타워즈 로고|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9653.%E2%80%85%EC%8A%A4%ED%83%80%EC%9B%8C%EC%A6%88%E2%80%85%EB%A1%9C%EA%B3%A0/README.md)|
 ### 🚀 Silver
