@@ -46,6 +46,7 @@
 |18108. 1998년생인 내가 태국에서는 2541년생？！|[링크](./%EB%B0%B1%EC%A4%80/Bronze/18108.%E2%80%851998%EB%85%84%EC%83%9D%EC%9D%B8%E2%80%85%EB%82%B4%EA%B0%80%E2%80%85%ED%83%9C%EA%B5%AD%EC%97%90%EC%84%9C%EB%8A%94%E2%80%852541%EB%85%84%EC%83%9D%EF%BC%9F%EF%BC%81/README.md)|
 |21598. SciComLove|[링크](./%EB%B0%B1%EC%A4%80/Bronze/21598.%E2%80%85SciComLove/README.md)|
 |2309. 일곱 난쟁이|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2309.%E2%80%85%EC%9D%BC%EA%B3%B1%E2%80%85%EB%82%9C%EC%9F%81%EC%9D%B4/README.md)|
+|23234. The World Responds|[링크](./%EB%B0%B1%EC%A4%80/Bronze/23234.%E2%80%85The%E2%80%85World%E2%80%85Responds/README.md)|
 |2372. Livestock Count|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2372.%E2%80%85Livestock%E2%80%85Count/README.md)|
 |2377. Pottery|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2377.%E2%80%85Pottery/Pottery.bas)|
 |2393. Rook|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2393.%E2%80%85Rook/README.md)|
