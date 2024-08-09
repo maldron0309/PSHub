@@ -4,21 +4,25 @@
 
 ### 성능 요약
 
-메모리: 2020 KB, 시간: 0 ms
+메모리: 5504 KB, 시간: 60 ms
 
 ### 분류
 
 구현, 사칙연산, 수학
 
+### 제출 일자
+
+2024년 8월 9일 11:10:07
+
 ### 문제 설명
 
-<p>Given two integers A and B, calculate their sum.</p>
+<p>두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오.</p>
 
 ### 입력 
 
- <p>The first line contains two integers A and B. (0 < A, B < 10)</p>
+ <p>첫째 줄에 A와 B가 주어진다. (0 < A, B < 10)</p>
 
 ### 출력 
 
- <p>Output one line of one integer, A+B.</p>
+ <p>첫째 줄에 A+B를 출력한다.</p>
 
