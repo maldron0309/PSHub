@@ -1,13 +1,11 @@
 #include <iostream>
 
-using namespace std;
+int main() 
+{
 
-int main() {
+	int a{}, b{};
+	std::cin >> a >> b;
 
-	int a, b;
-
-	cin >> a >> b;
-
-	cout << a + b << endl;
+	std::cout << (a + b);
 
 }
