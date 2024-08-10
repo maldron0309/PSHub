@@ -9,11 +9,11 @@ int main()
 	std::cout.tie(0);
 
 	std::set<char> vowels = { 'a','e','i','o','u','A','E','I','O','U' };
-	std::string s;
-	
+	std::string s{};
+
 	while (true)
 	{
-		int cnt = 0;
+		int cnt{};
 
 		std::getline(std::cin, s);
 		if (s == "#") break;
