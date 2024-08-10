@@ -1,37 +1,35 @@
 #include <iostream>
 #include <vector>
-#include <string>
-using namespace std;
 
 int main()
 {
-	string s;
-	vector<int> freq(26);
-	cin >> s;
+	std::string input;
+	std::cin >> input;
 
-	for (char &c : s)
+	std::vector<int> frequency(26, 0);
+	for (char& c : input)
 	{
-		c = toupper(c);
-		freq[c - 'A']++;
+		c = std::toupper(c);
+		++frequency[c - 'A'];
 	}
 
-	int maxFreq = 0;
-	char res = '?';
+	int maxFrequency{};
+	char result{ '?' };
 
-	for (int i = 0; i < freq.size(); i++)
+	for (int i = 0; i < 26; ++i)
 	{
-		if (freq[i] > maxFreq)
+		if (frequency[i] > maxFrequency)
 		{
-			maxFreq = freq[i];
-			res = 'A' + i;
+			maxFrequency = frequency[i];
+			result = 'A' + i;
 		}
-		else if (freq[i] == maxFreq)
+		else if (frequency[i] == maxFrequency)
 		{
-			res = '?';
+			result = '?';
 		}
 	}
 
-	cout << res;
+	std::cout << result << '\n';
 
 	return 0;
 }
