@@ -1,19 +1,17 @@
 #include <iostream>
-using namespace std;
 
 int main()
 {
-	int a;
-	cin >> a;
+    int a{};
+    std::cin >> a;
 
-	for (int i = 1; i <= a; i++)
-	{
-		for (int j = 1; j <= i; j++)
-		{
-			cout << "*";
-		}
+    for (int i{1}; i <= a; ++i)
+    {
+        for (int j{1}; j <= i; ++j)
+            std::cout << '*';
+        
+        std::cout << '\n';
+    }
 
-		cout << "\n";
-	}
-	return 0;
+    return 0;
 }
