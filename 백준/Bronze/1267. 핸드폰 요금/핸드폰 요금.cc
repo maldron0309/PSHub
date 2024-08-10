@@ -1,33 +1,25 @@
 #include <iostream>
-#include <vector>
-#include <algorithm>
-using namespace std;
 
-int main() {
-    int N; 
-    cin >> N;
+int main()
+{
+    int n{};
+    std::cin >> n;
 
-    int Y = 0; 
-    int M = 0; 
+    int y{};
+    int m{};
 
-    for (int i = 0; i < N; i++) {
-        int call;
-        cin >> call;
+    for (int i{0}; i < n; ++i)
+    {
+        int call{};
+        std::cin >> call;
 
-        Y += (call / 30 + 1) * 10;
-
-        M += (call / 60 + 1) * 15;
+        y += (call / 30 + 1) * 10;
+        m += (call / 60 + 1) * 15;
     }
 
-    if (Y < M) {
-        cout << "Y " << Y;
-    }
-    else if (Y > M) {
-        cout << "M " << M;
-    }
-    else { 
-        cout << "Y M " << Y;
-    }
+    if (y < m) std::cout << "Y " << y << '\n';
+    else if (y > m) std::cout << "M " << m << '\n';
+    else std::cout << "Y M " << y << '\n';
 
     return 0;
 }
