@@ -1,17 +1,12 @@
 #include <iostream>
+#include <iomanip>
 
-using namespace std;
+int main()
+{
+	double a{}, b{};
+	std::cin >> a >> b;
 
-int main(void) {
-
-	double a, b;
-	
-	cin >> a >> b;
-
-	cout << fixed;
-	cout.precision(9);
-
-	cout << a / b << endl;
+	std::cout << std::fixed << std::setprecision(9) << (a / b);
 
 	return 0;
 }
