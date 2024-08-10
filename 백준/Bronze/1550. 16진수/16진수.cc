@@ -1,15 +1,13 @@
 #include <iostream>
 #include <string>
 
-using namespace std;
+int main()
+{
+    std::string hexInput{};
+    std::cin >> hexInput;
 
-int main() {
-  string hexInput;
+    int value{std::stoi(hexInput, nullptr, 16)};
+    std::cout << value << '\n';
 
-  cin >> hexInput;
-
-  int val = stoi(hexInput, nullptr, 16);
-  cout << val << "\n";
-
-  return 0;
+    return 0;
 }
