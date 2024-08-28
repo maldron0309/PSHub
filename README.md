@@ -8,7 +8,7 @@
 | 문제번호 | 링크 |
 | ----- | ----- |
 |1000. A＋B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1000.%E2%80%85A%EF%BC%8BB/A%EF%BC%8BB.cc)|
-|1001. A－B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1001.%E2%80%85A%EF%BC%8DB/A%EF%BC%8DB.cc)|
+|1001. A－B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1001.%E2%80%85A%EF%BC%8DB/A%EF%BC%8DB.rs)|
 |10039. 평균 점수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10039.%E2%80%85%ED%8F%89%EA%B7%A0%E2%80%85%EC%A0%90%EC%88%98/README.md)|
 |1008. A／B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1008.%E2%80%85A%EF%BC%8FB/A%EF%BC%8FB.cc)|
 |10171. 고양이|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10171.%E2%80%85%EA%B3%A0%EC%96%91%EC%9D%B4/README.md)|
