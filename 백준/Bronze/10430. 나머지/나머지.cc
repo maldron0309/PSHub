@@ -1,16 +1,13 @@
 #include <iostream>
 
-using namespace std;
+int main() 
+{
+    int a{}, b{}, c{};
+    std::cin >> a >> b >> c;
 
-int main() {
-    int A, B, C;
-
-    cin >> A >> B >> C;
-
-    cout << (A + B) % C << "\n";
-    cout << (A % C + B % C) % C << "\n";
-    cout << (A * B) % C << "\n";
-    cout << (A % C * B % C) % C << "\n";
-
+    std::cout << (a + b) % c << '\n';
+    std::cout << ((a % c) + (b % c)) % c << '\n';
+    std::cout << (a * b) % c << '\n';
+    std::cout << ((a % c) * (b % c)) % c << '\n';
     return 0;
 }
