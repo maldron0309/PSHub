@@ -1,13 +1,12 @@
 #include <iostream>
 
-using namespace std;
+int main()
+{
 
-int main(void) {
+	std::string str{};
 
-	char ch[51];
-
-	cin >> ch;
-	cout << ch << "??!";
+	std::cin >> str;
+	std::cout << str << "??!";
 
 	return 0;
 }
