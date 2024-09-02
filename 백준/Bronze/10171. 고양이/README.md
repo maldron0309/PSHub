@@ -12,17 +12,17 @@
 
 ### 제출 일자
 
-2023년 4월 25일 14:10:14
+2024년 9월 2일 15:32:12
 
 ### 문제 설명
 
-<p>Print the ascii cat as shown below.</p>
+<p>아래 예제와 같이 고양이를 출력하시오.</p>
 
 ### 입력 
 
- <p>none.</p>
+ <p>없음.</p>
 
 ### 출력 
 
- <p>Print the picture as shown below. The horizontal line __ is comprised of two underscore characters.</p>
+ <p>고양이를 출력한다.</p>
 
