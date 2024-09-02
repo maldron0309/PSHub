@@ -1,13 +1,12 @@
 #include <iostream>
 
-using namespace std;
+int main() 
+{
+    long long a{}, b{}, c{};  
 
-int main() {
-    long long a, b, c;  
+    std::cin >> a >> b >> c;  
 
-    cin >> a >> b >> c;  
-
-    cout << a + b + c << endl; 
+    std::cout << (a + b + c);
 
     return 0;
 }
