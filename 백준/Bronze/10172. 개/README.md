@@ -12,17 +12,17 @@
 
 ### 제출 일자
 
-2023년 4월 25일 14:15:22
+2024년 9월 3일 22:04:18
 
 ### 문제 설명
 
-<p>Print the ascii dog as shown below.</p>
+<p>아래 예제와 같이 개를 출력하시오.</p>
 
 ### 입력 
 
- <p>none.</p>
+ <p>없음.</p>
 
 ### 출력 
 
- <p>Print the picture as shown below. The long horizontal line __ is comprised of two underscore characters, and the dog’s nose is a zero.</p>
+ <p>개를 출력한다.</p>
 
