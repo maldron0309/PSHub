@@ -2,10 +2,10 @@
 
 int main()
 {
-    int a{}, b{};
-    std::cin >> a >> b;
+	int a{}, b{};
+	std::cin >> a >> b;
 
-    std::cout << (a > b ? ">" : (a < b ? "<" : "==")) << '\n';
+	std::cout << ((a > b) ? ">" : ((a < b) ? "<" : "=="));
 
-    return 0;
+	return 0;
 }
