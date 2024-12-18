@@ -22,6 +22,7 @@
 |10998. A×B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10998.%E2%80%85A%C3%97B/README.md)|
 |2557. Hello World|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/Hello%E2%80%85World.undefined)|
 |2558. A＋B － 2|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2558.%E2%80%85A%EF%BC%8BB%E2%80%85%EF%BC%8D%E2%80%852/A%EF%BC%8BB%E2%80%85%EF%BC%8D%E2%80%852.rs)|
+|7287. 등록|[링크](./%EB%B0%B1%EC%A4%80/Bronze/7287.%E2%80%85%EB%93%B1%EB%A1%9D/README.md)|
 ## 📚 프로그래머스
 ### 🚀 0
 | 문제번호 | 링크 |
