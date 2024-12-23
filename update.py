@@ -10,27 +10,12 @@ HEADER="""#
 
 """
 
-# 파일 확장자를 기반으로 언어를 매핑
-LANGUAGE_MAP = {
-    ".py": "Python",
-    ".cpp": "C++",
-    ".asm": "Assembly",
-    ".cs": "C#",
-    ".go": "Go",
-    ".rs": "Rust",
-    ".c": "C",
-}
-
-def get_language(file_name):
-    _, ext = os.path.splitext(file_name)
-    return LANGUAGE_MAP.get(ext, "Unknown")
-
 def main():
     content = ""
     content += HEADER
     
-    directories = []
-    solveds = []
+    directories = [];
+    solveds = [];
 
     for root, dirs, files in os.walk("."):
         dirs.sort()
@@ -57,16 +42,13 @@ def main():
                 content += "## 📚 {}\n".format(directory)
             else:
                 content += "### 🚀 {}\n".format(directory)
-                content += "| 문제번호 | 링크 | 언어 |\n"
-                content += "| ----- | ----- | ----- |\n"
+                content += "| 문제번호 | 링크 |\n"
+                content += "| ----- | ----- |\n"
             directories.append(directory)
 
         for file in files:
-            language = get_language(file)
             if category not in solveds:
-                content += "|{}|[링크]({})|{}|\n".format(
-                    category, parse.quote(os.path.join(root, file)), language
-                )
+                content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root, file)))
                 solveds.append(category)
                 print("category : " + category)
 
