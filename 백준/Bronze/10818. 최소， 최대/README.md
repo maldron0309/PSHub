@@ -2,17 +2,9 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10818) 
 
-### 성능 요약
-
-메모리: 5992 KB, 시간: 92 ms
-
 ### 분류
 
 구현, 수학
-
-### 제출 일자
-
-2025년 1월 11일 14:29:25
 
 ### 문제 설명
 
@@ -25,4 +17,41 @@
 ### 출력 
 
  <p>첫째 줄에 주어진 정수 N개의 최솟값과 최댓값을 공백으로 구분해 출력한다.</p>
+
+
+
+#  🚀  오답노트 
+
+```diff
+-#include <iostream>
+-#include <algorithm>
+-#include <vector>
+-using namespace std;
+-
+-int main()
+-{
+-	ios_base::sync_with_stdio(false);
+-	cin.tie(NULL);
+-
+-	int n;
+-	cin >> n;
+-	vector<int> v(n);
+-
+-	for (int i = 0; i < n; i++)
+-	{
+-		cin >> v[i];
+-	}
+-
+-	int max = *max_element(v.begin(), v.end());
+-	int min = *min_element(v.begin(), v.end());
+-
+-	cout << min << " " << max;
+-
+-	return 0;
+-}
+
+```
+
+
+ ## 🏆 전체 코멘트 
 
