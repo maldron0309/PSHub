@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int A, B;
+    cin >> A >> B;
+
+    int ones = B % 10;
+    int tens = (B / 10) % 10;
+    int hundreds = B / 100;
+
+    cout << A * ones << '\n';
+    cout << A * tens << '\n';
+    cout << A * hundreds << '\n';
+    cout << A * B << '\n';
+
+    return 0;
+}
