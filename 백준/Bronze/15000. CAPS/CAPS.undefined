@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    string msg;
+    cin >> msg;
+    string upperMsg;
+
+    for (char c : msg) {
+        upperMsg += toupper(c);
+    }
+
+    cout << upperMsg;
+    return 0;
+}
