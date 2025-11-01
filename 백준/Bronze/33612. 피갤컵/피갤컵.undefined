@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+int main(){
+    int n;
+    cin >> n;
+    int y = 2024 + (7*(n-1)+7)/ 12, m=(8+7*(n-1)-1) % 12 + 1;
+    cout<<y<<" "<<m;
+}
